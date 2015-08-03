@@ -12,6 +12,7 @@
 ##                                                                                        ##
 ############################################################################################
 # COMMIT FROM THE FUTURE
+# COmmit from TODAY
 # Turn non-matched glob patterns into null strings
 shopt -s nullglob
 
